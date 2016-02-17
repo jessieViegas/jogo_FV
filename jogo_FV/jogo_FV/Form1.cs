@@ -15,6 +15,8 @@ namespace jogo_FV
         public Form1()
         {
             InitializeComponent();
+
+            int b;
         }
     }
 }
