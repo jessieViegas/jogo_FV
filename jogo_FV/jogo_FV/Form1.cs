@@ -18,5 +18,15 @@ namespace jogo_FV
 
             int b;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("World");
+        }
     }
 }
